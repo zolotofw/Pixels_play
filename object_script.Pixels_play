@@ -1,0 +1,12 @@
+image.o
+iterator_bit.o
+iterator_image.o
+itr_bit_oop.o
+main.o
+progress_dialog.o
+utils_iterator.o
+window_image.o
+worker_thread.o
+moc_progress_dialog.o
+moc_window_image.o
+moc_worker_thread.o
